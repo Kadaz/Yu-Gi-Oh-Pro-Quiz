@@ -1,0 +1,28 @@
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\bin\Debug\Show picture OnClick(Button).exe
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\bin\Debug\Show picture OnClick(Button).pdb
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\bin\Debug\Show picture OnClick(Button).xml
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show_picture_OnClick_Button_.Form1.resources
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show_picture_OnClick_Button_.Resources.resources
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).exe
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).xml
+F:\Computers sciences\4th stage\Multimedia\Lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).pdb
+D:\VID\Multimedia lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).exe
+D:\VID\Multimedia lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).xml
+D:\VID\Multimedia lab\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).pdb
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Show picture OnClick(Button).vbproj.GenerateResource.Cache
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\bin\Debug\Yu-Gi-Oh Quiz.exe
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\bin\Debug\Yu-Gi-Oh Quiz.pdb
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\bin\Debug\Yu-Gi-Oh Quiz.xml
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu_Gi_Oh_Quiz.Form1.resources
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu_Gi_Oh_Quiz.Form2.resources
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu_Gi_Oh_Quiz.Form3.resources
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu_Gi_Oh_Quiz.Resources.resources
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu-Gi-Oh Quiz.exe
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu-Gi-Oh Quiz.xml
+C:\Users\Apostolos\Desktop\Show picture OnClick(Button)\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu-Gi-Oh Quiz.pdb
+C:\Users\Apostolos\Desktop\Games\Yu Gi Oh Online\Yu-Gi-Oh Greek Online PC Game Community\Yu-Gi-Oh Quiz\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu-Gi-Oh Quiz.exe
+C:\Users\Apostolos\Desktop\Games\Yu Gi Oh Online\Yu-Gi-Oh Greek Online PC Game Community\Yu-Gi-Oh Quiz\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu-Gi-Oh Quiz.xml
+C:\Users\Apostolos\Desktop\Games\Yu Gi Oh Online\Yu-Gi-Oh Greek Online PC Game Community\Yu-Gi-Oh Quiz\Show picture OnClick(Button)\Show picture OnClick(Button)\obj\x86\Debug\Yu-Gi-Oh Quiz.pdb

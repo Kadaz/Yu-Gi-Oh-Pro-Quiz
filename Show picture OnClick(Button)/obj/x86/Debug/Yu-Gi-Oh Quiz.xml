@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Yu-Gi-OhQuiz
+</name>
+</assembly>
+<members>
+<member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.alexis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.aster">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.bakura">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.chazz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.Ishizu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.jaden">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.jesse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.joey">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.kaiba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.mai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.marik">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.sartorius">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.song2">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.yugi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yu_Gi_Oh_Quiz.My.Resources.Resources.zane">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Yu_Gi_Oh_Quiz.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
